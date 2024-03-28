@@ -1,0 +1,460 @@
+Category,Role,Description
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Animal/Monster Handler ,"responsible for the safe keeping, dietary care, and exercise of animals or monsters."
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Arborist ,"maintains and cares for trees, often by surgically removing dying limbs."
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Baler ,"bales hay, or in the mills, wool and cotton goods."
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Beekeeper ,"owns and breeds bees, especially for their honey."
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Breeder ,"breeds livestock, animals, or monsters."
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Cowherd ,supervises grazing cattle.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Dairyboy/Dairymaid ,milks cows and makes cheese and butter.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Falconer ,"keeps, trains, and hunts with falcons, hawks, or other birds of prey."
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Farmer ,operates a farm or cultivates land.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Fisher ,catches fish.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Florist ,grows and arranges plants and cut flowers.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Forager ,searches for food in the wild.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Forester ,supervises the wellbeing of a forest.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Fowler ,catches or ensnares birds.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Gamekeeper ,"breeds and protects game, typically for a large estate."
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Groom ,"cleans and brushes the coats horses, dogs, or other animals."
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Herder ,"supervises a herd of livestock or makes a living from keeping livestock, especially in open country."
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Horse Trainer ,tends to horses and teaches them different disciplines.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Hunter ,hunts game or other wild animals.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Lumberjack ,"fells trees, cuts them into logs, and transports them to a sawmill."
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Master-of-Horses ,supervises and commands all horses under a jurisdiction.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Master-of-Hounds ,"maintains a pack of hounds and their associated staff, equipment, and hunting arrangements."
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Miller ,owns or works in a grain mill.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Miner ,"works underground in mines in order to obtain minerals such as coal, diamonds, or gold."
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Pathfinder ,scouts ahead and discovers a path or way for others.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Plumer ,hunts birds for their plumes.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Prospector ,"searches for mineral deposits, especially by drilling and excavation."
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Ranger ,wanders or ranges over a particular area or domain.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Renderer ,converts waste animal tissue into usable materials.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Shepherd ,"herds, tends, and guards sheep."
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Stablehand ,works in a stable.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Thresher ,separates grain from the plants by beating.
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Trapper ,"traps wild animals, especially for their fur."
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Vintner ,"engages in winemaking, especially with monitoring and harvesting the grapes."
+"I. AGRICULTURE, ANIMAL HUSBANDRY, & FORESTRY",Zookeeper ,maintains and cares for animals or monsters in a zoo.
+II. ARCHITECTURE & CONSTRUCTION,Architect ,designs buildings or landscapes and in many cases supervises their construction.
+II. ARCHITECTURE & CONSTRUCTION,Brickmaker ,"crafts bricks from clay, stone, or other materials."
+II. ARCHITECTURE & CONSTRUCTION,Brickmason ,"builds with mineral products such as stones, bricks, cinder blocks, or tiles, usually with the use of mortar as a bonding agent."
+II. ARCHITECTURE & CONSTRUCTION,Carpenter ,makes and repairs wooden objects and structures.
+II. ARCHITECTURE & CONSTRUCTION,Construction Worker ,a laborer in the physical construction of a built environment and its infrastructure.
+II. ARCHITECTURE & CONSTRUCTION,General Contractor ,"supervises a construction site, manages its vendors and trades, and communicates information to all involved parties."
+II. ARCHITECTURE & CONSTRUCTION,Glazier ,fits glass into windows and doors.
+II. ARCHITECTURE & CONSTRUCTION,Plasterer ,"applies plaster to walls, ceilings, or other surfaces."
+II. ARCHITECTURE & CONSTRUCTION,Roadlayer/Streetlayer ,paves roads or streets.
+II. ARCHITECTURE & CONSTRUCTION,Roofer/Thatcher ,builds and repairs roofs.
+II. ARCHITECTURE & CONSTRUCTION,Stonemason ,cuts and prepares stone for use in construction.
+"III. ARTS, the",Acrobat ,performs spectacular gymnastic feats.
+"III. ARTS, the",Actor ,"impersonates characters, typically on stage in a theatrical production."
+"III. ARTS, the",Aerialist/Trapezist ,performs acrobatics high above the ground on a tightrope or trapeze.
+"III. ARTS, the",Arranger ,adapts a musical composition for performance.
+"III. ARTS, the",Athlete ,proficient in sports and other forms of physical exercise.
+"III. ARTS, the",Busker/Street Musician ,"performs in a public place, often for money."
+"III. ARTS, the",Celebrity ,a famous person.
+"III. ARTS, the",Chef ,a professional cook trained in the culinary arts.
+"III. ARTS, the",Choirmaster ,trains a choir and orchestrates their singing when they perform.
+"III. ARTS, the",Clown ,comic entertainer who wears a traditional costume and exaggerated makeup.
+"III. ARTS, the",Comedian ,entertainer whose act is designed to make an audience laugh.
+"III. ARTS, the",Conductor ,directs the performance of an orchestra.
+"III. ARTS, the",Contortionist ,twists and bends their body into strange and unnatural positions.
+"III. ARTS, the",Curator ,keeper and custodian of a museum or other collections of precious items.
+"III. ARTS, the",Costumer ,makes theatrical costumes.
+"III. ARTS, the",Dancer ,moves their body rhythmically with or without musical accompaniment.
+"III. ARTS, the",Equilibrist ,performs balancing feats.
+"III. ARTS, the",Fashion Designer ,"applies design, aesthetics and natural beauty to garments and their accessories."
+"III. ARTS, the",Gladiator ,"fights against other people, wild animals, or monsters in an arena."
+"III. ARTS, the",Glasspainter ,produces colorful designs on or in glass.
+"III. ARTS, the",Jester ,"professional joker or “fool” at court, typically wearing a cap with bells on it and carrying a mock scepter."
+"III. ARTS, the",Juggler ,keeps several objects in motion in the air at the same time by alternately tossing and catching them.
+"III. ARTS, the",Illuminator ,paints and calligraphs to adorn or enlighten scrolls and manuscripts.
+"III. ARTS, the",Limner ,paints portraits or miniatures.
+"III. ARTS, the",Makeup Artist ,"applies cosmetics to models, actors, nobles, etc."
+"III. ARTS, the",Minstrel ,recites lyric or heroic poetry for nobility.
+"III. ARTS, the",Model ,"poses as a subject for an artist, fashion designer, or sculptor."
+"III. ARTS, the",Musician ,plays a musical instrument.
+"III. ARTS, the",Painter ,paints pictures.
+"III. ARTS, the",Playwright ,writes plays or musicals.
+"III. ARTS, the",Poet ,"writes ballads, epics, sonnets, or other forms of poetry."
+"III. ARTS, the",Ringmaster/Ringmistress ,master of ceremony who introduces the circus acts to the audience.
+"III. ARTS, the",Ropewalker ,walks along a tightrope to entertain others.
+"III. ARTS, the",Sculptor ,"crafts art by carving or casting blocks of marble, stones, or other hardened minerals."
+"III. ARTS, the",Singer/Soprano ,sings with or without instrumental accompaniment.
+"III. ARTS, the",Skald ,composes and recites poems honoring heroes and their deeds.
+"III. ARTS, the",Stage Magician ,deceives their audience with seemingly impossible feats while using only natural means.
+"III. ARTS, the",Stuntman/Stuntwoman ,performs dangerous stunts for their audience.
+"III. ARTS, the",Tattooist ,"illustrates the skin with indelible patterns, pictures, legends, etc."
+"III. ARTS, the",Theater Director ,supervises and orchestrates the mounting of a theatre production by unifying various endeavors and aspects of production.
+"III. ARTS, the",Wrestler ,performs in matches involving grappling and grappling-type techniques.
+"III. ARTS, the",Writer ,"commits his or her thoughts, ideas, etc., into written language."
+IV. BUSINESS & TRADE,Accountant ,keeps and inspects financial accounts.
+IV. BUSINESS & TRADE,Actuary ,compiles and analyzes statistics and uses them to calculate risk.
+IV. BUSINESS & TRADE,Animal Collector/Monster Collector ,collects and deals in rare and exotic animals and monsters.
+IV. BUSINESS & TRADE,Business Owner ,owns a business entity in an attempt to profit from its successful operations.
+IV. BUSINESS & TRADE,Debt Collector ,recovers money owed on delinquent accounts.
+IV. BUSINESS & TRADE,Draper ,an alcohol merchant.
+IV. BUSINESS & TRADE,Appraiser ,assesses the monetary value of something.
+IV. BUSINESS & TRADE,Auctioneer ,conducts auctions by accepting bids and declaring goods sold.
+IV. BUSINESS & TRADE,Banker ,an officer or owner of a bank or group of banks.
+IV. BUSINESS & TRADE,Bagniokeeper ,owner of a bath house or brothel.
+IV. BUSINESS & TRADE,Bookkeeper ,keeps records of financial affairs.
+IV. BUSINESS & TRADE,Chandler ,deals in provisions and supplies.
+IV. BUSINESS & TRADE,Collector ,"collects things of a specified type, professionally or as a hobby."
+IV. BUSINESS & TRADE,Entrepreneur ,"organizes and operates a business or businesses, taking on greater than normal financial risks in order to do so."
+IV. BUSINESS & TRADE,Grocer ,a food merchant.
+IV. BUSINESS & TRADE,Guild Master ,"leads an economically independent producer (a “guild,” an association of craftsmen or merchants that often holds considerable bureaucratic power)."
+IV. BUSINESS & TRADE,Innkeeper ,owns and runs an inn.
+IV. BUSINESS & TRADE,Land Surveyor ,establishes maps and boundaries for ownership or other purposes required by government or civil law.
+IV. BUSINESS & TRADE,Merchant ,sells and trades goods.
+IV. BUSINESS & TRADE,Moneychanger ,exchanges one currency for another.
+IV. BUSINESS & TRADE,Moneylender ,lends money to others who pay interest.
+IV. BUSINESS & TRADE,Peddler ,travels from place to place selling assorted items.
+IV. BUSINESS & TRADE,Pimp/Madame ,"controls prostitutes and arranges clients for them, taking part of their earnings in return."
+IV. BUSINESS & TRADE,Plantation Owner ,"an owner of an estate on which crops are cultivated by resident labor, typically slave labor."
+IV. BUSINESS & TRADE,Speculator ,"invests in stocks, property, or other ventures in the hope of making a profit."
+IV. BUSINESS & TRADE,Thriftdealer ,deals in secondhand items.
+IV. BUSINESS & TRADE,Tradesman ,deals exclusively in bartering.
+IV. BUSINESS & TRADE,Vendor ,deals items in the street.
+V. COMMUNICATIONS,Billboardposter ,"a person who puts up notices, signs and advertisements."
+V. COMMUNICATIONS,Courier ,transports packages and documents.
+V. COMMUNICATIONS,Herald,a messenger who carries important news.
+V. COMMUNICATIONS,Interpreter,"interprets language and its meaning, especially within ancient manuscripts."
+V. COMMUNICATIONS,Linguist,"studies the essence of communication, including the units, nature, structure, and modification of language."
+V. COMMUNICATIONS,Messenger,carries messages between recipients.
+V. COMMUNICATIONS,Town Crier,makes public announcements in the streets or marketplace.
+V. COMMUNICATIONS,Translator,translates between languages.
+VI. CRAFTSMANSHIP,Accoutrementer/Coinsmith ,makes currency for the government.
+VI. CRAFTSMANSHIP,Armorer ,specializes in making and repairing armor.
+VI. CRAFTSMANSHIP,Blacksmith ,"forges and repairs things in metal, including weapons, armor, utensils, etc."
+VI. CRAFTSMANSHIP,Bladesmith ,"specializes in making and repairing bladed weapons, especially swords and daggers."
+VI. CRAFTSMANSHIP,Bookbinder ,binds books and wraps scrolls.
+VI. CRAFTSMANSHIP,Bottler ,bottles drinks and other liquids.
+VI. CRAFTSMANSHIP,Bowyer ,makes bows and crossbows.
+VI. CRAFTSMANSHIP,Brewer ,brews ale.
+VI. CRAFTSMANSHIP,Broom Maker ,makes brooms and brushes.
+VI. CRAFTSMANSHIP,Candlemaker ,makes candles and wax from honey and tallow.
+VI. CRAFTSMANSHIP,Cartwright ,makes and repairs carts and wagons.
+VI. CRAFTSMANSHIP,Cobbler ,makes and repairs footwear.
+VI. CRAFTSMANSHIP,Cooper/Hooper ,makes and repairs casks and barrels.
+VI. CRAFTSMANSHIP,Cutler ,makes cutlery.
+VI. CRAFTSMANSHIP,Dyer ,dyes cloth and other materials.
+VI. CRAFTSMANSHIP,Embroiderer ,ornaments with needlework.
+VI. CRAFTSMANSHIP,Engraver ,incises a design onto a hard surface by cutting grooves into it.
+VI. CRAFTSMANSHIP,Farrier ,trims and shoes horses’ hooves.
+VI. CRAFTSMANSHIP,Fletcher ,makes and repairs arrows.
+VI. CRAFTSMANSHIP,Furniture Artisan ,makes and repairs furniture.
+VI. CRAFTSMANSHIP,Furrier ,prepares furs for adornment.
+VI. CRAFTSMANSHIP,Glassworker ,blows glass planes and items.
+VI. CRAFTSMANSHIP,Glovemaker ,makes and repairs gloves.
+VI. CRAFTSMANSHIP,Goldsmith/Silversmith ,a smith who specializes in precious metals.
+VI. CRAFTSMANSHIP,Hatter/Milliner ,makes and repairs headwear.
+VI. CRAFTSMANSHIP,Instrument Maker ,makes and repairs musical instruments.
+VI. CRAFTSMANSHIP,Lapidary ,"turns stone, minerals, or gemstones into decorative items such as cabochons, engraved gems, and faceted designs."
+VI. CRAFTSMANSHIP,Leatherworker ,"makes items from leather such as pouches, scabbards, straps, etc."
+VI. CRAFTSMANSHIP,Jeweler ,"designs, makes, and repairs necklaces, bracelets, watches, etc., often containing jewels."
+VI. CRAFTSMANSHIP,Locksmith ,makes and repairs locks.
+VI. CRAFTSMANSHIP,Luthier ,makes and repairs stringed instruments.
+VI. CRAFTSMANSHIP,Mercer ,"weaves textile fabrics, especially silks, velvets, and other fine materials."
+VI. CRAFTSMANSHIP,Optician ,makes and repairs eyeglasses.
+VI. CRAFTSMANSHIP,Potter ,"makes pots, bowls, plates, etc., out of clay."
+VI. CRAFTSMANSHIP,Printer ,"a person who applies pressure to an inked surface resting upon a print medium (such as paper or cloth), thereby transferring the ink to manufacture a text."
+VI. CRAFTSMANSHIP,Restorer ,repairs or renovates a work of art so as to return it to its original condition.
+VI. CRAFTSMANSHIP,Ropemaker ,braids rope.
+VI. CRAFTSMANSHIP,Rugmaker ,"makes and repairs rugs by braiding, hooking, weaving, etc."
+VI. CRAFTSMANSHIP,Saddler ,makes and repairs saddlery.
+VI. CRAFTSMANSHIP,Seamstress/Tailor ,"makes, alters, repairs, as well as occasionally designing garments."
+VI. CRAFTSMANSHIP,Soaper ,"makes soap from accumulated mutton fat, wood ash, and natural soda."
+VI. CRAFTSMANSHIP,Tanner ,treats the skins and hides of animals to produce leather.
+VI. CRAFTSMANSHIP,Taxidermist ,"prepares, stuffs, and mounts the skins of animals."
+VI. CRAFTSMANSHIP,Tinker ,travels from place to place mending utensils.
+VI. CRAFTSMANSHIP,Toymaker ,makes and repairs toys.
+VI. CRAFTSMANSHIP,Watchmaker ,makes and repairs watches and clocks.
+VI. CRAFTSMANSHIP,Weaponsmith ,specializes in making and repairing weapons.
+VI. CRAFTSMANSHIP,Weaver ,makes fabric by weaving fiber together.
+VI. CRAFTSMANSHIP,Wheelwright ,makes and repairs wooden wheels.
+VI. CRAFTSMANSHIP,Whittler/Woodcarver ,fashions wood into various shapes.
+VII. CRIME,Assassin ,"murders through stealth for reasons pertaining to money, politics, or religion."
+VII. CRIME,Bandit ,a robber or outlaw belonging to a gang and typically operating in an isolated or lawless area.
+VII. CRIME,Burglar ,illegally enters buildings and steals things.
+VII. CRIME,Charlatan/Conman ,tricks people by gaining their trust and persuading them to believe something that is not true in order to benefit from the encounter.
+VII. CRIME,Cockfighter/Gamefighter ,"engages in arena matches in which animals or monsters are pitted against one another, typically to the death."
+VII. CRIME,Crime Boss ,controls and supervises a criminal organization.
+VII. CRIME,Cutpurse ,a pickpocket or thief.
+VII. CRIME,Drug Dealer ,dealer of illegal substances.
+VII. CRIME,Drug Lord ,controls a network of persons involved in the illegal drugs trade and transactions.
+VII. CRIME,Extortioner ,extorts money from someone by threatening to expose embarrassing information about them.
+VII. CRIME,Fence ,deals in stolen goods.
+VII. CRIME,Forger ,produces fraudulent copies or imitations.
+VII. CRIME,Fugitive ,"a person who has escaped from a place or is in hiding, especially to avoid arrest or persecution."
+VII. CRIME,Highwayman ,robs travelers on a road.
+VII. CRIME,Kidnapper ,"abducts people and holds them captive, typically to obtain a ransom."
+VII. CRIME,Loan Shark ,"charges extremely high rates of interest for moneylending, typically under illegal conditions."
+VII. CRIME,Pirate ,attacks and robs ships at sea.
+VII. CRIME,Poacher ,hunts illegal game.
+VII. CRIME,Poisoner ,makes poisons to harm or kill.
+VII. CRIME,Raider/Marauder ,"makes sudden, unprompted attacks against defenseless or near-defenseless settlements."
+VII. CRIME,Smuggler ,"manages the import or export of goods secretly, in violation of the law, especially without payment of legal duty."
+VII. CRIME,Thief ,"steals people’s property, especially by stealth and without using force or violence."
+VIII. GOVERNMENT & LAW,Affeeror ,determines the values of fines and amercements.
+VIII. GOVERNMENT & LAW,Agister ,affords pasture to the livestock of others for a price.
+VIII. GOVERNMENT & LAW,Alderman ,a civic dignitary in the local council ranked below the mayor.
+VIII. GOVERNMENT & LAW,Alienist ,assesses the competence of a defendant in a court of law.
+VIII. GOVERNMENT & LAW,Assay Master ,oversees the testing of currency.
+VIII. GOVERNMENT & LAW,Baron/Baroness ,a member of the lowest order of the British nobility.
+VIII. GOVERNMENT & LAW,Chancellor ,a senior state or legal official.
+VIII. GOVERNMENT & LAW,Chief ,leads or rules a people or clan.
+VIII. GOVERNMENT & LAW,Conservationist ,advocates for the protection and preservation of the environment and wildlife.
+VIII. GOVERNMENT & LAW,Count/Earl/Countess ,a nobleperson ranking above a viscount and below a marquess.
+VIII. GOVERNMENT & LAW,Courtier ,attends court as a companion or adviser to the king or queen.
+VIII. GOVERNMENT & LAW,Diplomat ,an official representing a country abroad.
+VIII. GOVERNMENT & LAW,Duke/Duchess ,rules over a duchy and is of the highest rank below the monarch.
+VIII. GOVERNMENT & LAW,Emperor/Empress ,the supreme sovereign ruler of an extensive group of states or countries under a single authority.
+VIII. GOVERNMENT & LAW,Judge ,decides cases in a court of law.
+VIII. GOVERNMENT & LAW,King/Queen ,the ruler of an independent state and its people.
+VIII. GOVERNMENT & LAW,Knight ,serves his or her sovereign after being bestowed a rank of royal honor.
+VIII. GOVERNMENT & LAW,Lady-in-Waiting ,"attends a queen, princess, or other high-ranking feminine nobleperson."
+VIII. GOVERNMENT & LAW,Lawyer/Advocate ,"practices or studies law, typically an attorney or a counselor."
+VIII. GOVERNMENT & LAW,Marquess/Marchioness ,a nobleperson ranking above a count and below a duke.
+VIII. GOVERNMENT & LAW,Master-of-Coin ,"supervises the royal treasury, advises the monarch on financial matters, and is responsible for raising money through taxation."
+VIII. GOVERNMENT & LAW,Master-of-the-Revels ,responsible for overseeing royal festivities.
+VIII. GOVERNMENT & LAW,Minister ,assists with the administration of business.
+VIII. GOVERNMENT & LAW,Noble/Aristocrat ,a person belonging to a class with high social or political status.
+VIII. GOVERNMENT & LAW,Notary ,"performs certain legal formalities, especially to draw up or certify contracts, deeds, and other documents for use in other jurisdictions."
+VIII. GOVERNMENT & LAW,Orator/Spokesman ,makes statements on behalf of a group or individual nobleperson.
+VIII. GOVERNMENT & LAW,Page ,a young attendant to a person of noble rank.
+VIII. GOVERNMENT & LAW,Prince/Princess ,the direct descendant of a monarch.
+VIII. GOVERNMENT & LAW,Senator ,partakes in governmental decision-making after being elected.
+VIII. GOVERNMENT & LAW,Sheriff ,"the chief executive officer in a county, having various administrative and judicial functions."
+VIII. GOVERNMENT & LAW,Spymaster ,"directs a network of subordinate espionage agents for a state, kingdom, or empire."
+VIII. GOVERNMENT & LAW,Steward ,supervises both the estate and household of his lord or lady while they are away.
+VIII. GOVERNMENT & LAW,Squire ,acts as an attendant to a knight before attempting to become a knight themselves.
+VIII. GOVERNMENT & LAW,Tax Collector ,"collects unpaid taxes from people, guilds, or businesses."
+VIII. GOVERNMENT & LAW,Viscount/Viscountess ,a nobleperson ranking above a baron and below a count.
+VIII. GOVERNMENT & LAW,Ward ,a member of a noble house who has been taken in by another noble family to be raised for a time.
+IX. HOSPITALITY & COMMON LABOR,Acater ,provides and prepares foodstuffs or delicacies for events such as festivals.
+IX. HOSPITALITY & COMMON LABOR,Tunner ,fills casks in a brewery or winery.
+IX. HOSPITALITY & COMMON LABOR,Baker ,bakes bread and cakes.
+IX. HOSPITALITY & COMMON LABOR,Barber ,cuts hair and shaves or trims beards.
+IX. HOSPITALITY & COMMON LABOR,Barkeep ,works and serves drinks in a bar.
+IX. HOSPITALITY & COMMON LABOR,Barmaid/Barboy ,serves drinks and food in a bar as well as engaging with customers.
+IX. HOSPITALITY & COMMON LABOR,Butcher ,cuts up and sells meat.
+IX. HOSPITALITY & COMMON LABOR,Butler ,the chief servant of a household.
+IX. HOSPITALITY & COMMON LABOR,Caregiver ,"looks after a sick, elderly, or disabled person."
+IX. HOSPITALITY & COMMON LABOR,Charcoal Maker ,manufactures charcoal by carbonizing wood in a kiln.
+IX. HOSPITALITY & COMMON LABOR,Chatelaine/Majordomo ,a person in charge of a large household.
+IX. HOSPITALITY & COMMON LABOR,Chimney Sweeper ,"a small person, typically a child, who ascends chimneys to clean them."
+IX. HOSPITALITY & COMMON LABOR,Clerk ,undertakes routine administrative duties in a business or bank.
+IX. HOSPITALITY & COMMON LABOR,Cook ,prepares food for eating.
+IX. HOSPITALITY & COMMON LABOR,Copyist ,makes copies of handwritten documents or music.
+IX. HOSPITALITY & COMMON LABOR,Croupier ,runs a gaming table by gathering in and paying out money or tokens.
+IX. HOSPITALITY & COMMON LABOR,Exterminator ,exterminates unwanted rodents and insects.
+IX. HOSPITALITY & COMMON LABOR,Food & Drink Taster ,ingests food that was prepared for someone else to confirm it is safe to eat.
+IX. HOSPITALITY & COMMON LABOR,Gardener/Landscaper ,tends and cultivates a garden.
+IX. HOSPITALITY & COMMON LABOR,Gongfarmer ,digs out and removes excrement from privies and cesspits.
+IX. HOSPITALITY & COMMON LABOR,Gravedigger ,digs graves for the purposes of a funeral ceremony.
+IX. HOSPITALITY & COMMON LABOR,Groundskeeper ,"maintains an athletic field, a park, or the grounds of a graveyard or other institution."
+IX. HOSPITALITY & COMMON LABOR,Kitchen Drudge ,performs menial work in a kitchen.
+IX. HOSPITALITY & COMMON LABOR,Knacker ,disposes of dead or unwanted animals.
+IX. HOSPITALITY & COMMON LABOR,Lamplighter ,lights street or road lights at dusk.
+IX. HOSPITALITY & COMMON LABOR,Laundry Worker ,"a laborer who takes part in the washing, drying, and ironing of clothes and other fabric items."
+IX. HOSPITALITY & COMMON LABOR,Lector ,reads to others while they work for entertainment.
+IX. HOSPITALITY & COMMON LABOR,Longshoreman ,loads and unloads ships in a port.
+IX. HOSPITALITY & COMMON LABOR,Maid ,a domestic servant of a household.
+IX. HOSPITALITY & COMMON LABOR,Nanny/Nursemaid ,a servant employed to look after a young child or children.
+IX. HOSPITALITY & COMMON LABOR,Operator ,"a laborer who operates equipment, typically in construction."
+IX. HOSPITALITY & COMMON LABOR,Pastry Chef ,"makes desserts, especially cakes and pastries."
+IX. HOSPITALITY & COMMON LABOR,Plumber ,installs and repairs the fittings of water supply and sanitation.
+IX. HOSPITALITY & COMMON LABOR,Porter ,carries luggage and other loads.
+IX. HOSPITALITY & COMMON LABOR,Prostitute ,engages in sexual activity for payment.
+IX. HOSPITALITY & COMMON LABOR,Quarryman/Quarrywoman ,quarries stone.
+IX. HOSPITALITY & COMMON LABOR,Servant ,"performs duties for others, especially a person employed in a house or as a personal attendant."
+IX. HOSPITALITY & COMMON LABOR,Stagehand ,moves scenery or props before or during the performance of a theatrical production.
+IX. HOSPITALITY & COMMON LABOR,Street Cleaner ,cleans streets and alleyways after dark.
+IX. HOSPITALITY & COMMON LABOR,Talent Scout ,searches for talented individuals who can be employed or promoted.
+IX. HOSPITALITY & COMMON LABOR,Trainer ,"trains someone in a particular skill, usually physical, for money."
+IX. HOSPITALITY & COMMON LABOR,Water Bearer ,"brings water from rivers, wells, and lakes back to their settlement."
+IX. HOSPITALITY & COMMON LABOR,Wet Nurse ,a woman employed to suckle another woman’s child.
+"X. MAGICAL ARTS, the",Abjurer ,a mage focused in protective spells.
+"X. MAGICAL ARTS, the",Alchemist ,transforms or creates something within nature through (usually) ritualist magic.
+"X. MAGICAL ARTS, the",Archmage ,an extremely powerful mage.
+"X. MAGICAL ARTS, the",Artificer ,unlocks magic in everyday objects as well as being an inventor.
+"X. MAGICAL ARTS, the",Bard ,uses their artistic talents to induce magical effects.
+"X. MAGICAL ARTS, the",Conjuror ,conjures spirits or familiars.
+"X. MAGICAL ARTS, the",Druid ,"a mage attuned to the magical forces of nature, able to shapeshift, call on the elements, communicate with flora and fauna, etc."
+"X. MAGICAL ARTS, the",Elementalist ,manipulates nature’s elements to their will.
+"X. MAGICAL ARTS, the",Enchanter/Enchantress ,uses sorcery to put someone or something under a spell.
+"X. MAGICAL ARTS, the",Evoker ,manipulates energy or taps into an unseen source of power in order to produce a desired kinetic end.
+"X. MAGICAL ARTS, the",Healer ,able to cure a disease or injury using magic.
+"X. MAGICAL ARTS, the",Hearth Witch/Hearth Wizard ,incorporates spells and enchantments in cooking.
+"X. MAGICAL ARTS, the",Illusionist ,performs tricks and spells that deceive the senses.
+"X. MAGICAL ARTS, the",Mage ,a magic-user.
+"X. MAGICAL ARTS, the",Medium ,"uses extrasensory perception, magic, or divine powers to identify information hidden from the normal senses."
+"X. MAGICAL ARTS, the",Meteorologist ,forecasts and manipulates weather.
+"X. MAGICAL ARTS, the",Necromancer ,communicates with and conjures the spirits of the dead.
+"X. MAGICAL ARTS, the",Ritualist ,practices or advocates the observance of ritual (formula intended to trigger a magical effect on a person or objects).
+"X. MAGICAL ARTS, the",Runecaster ,uses special alphabets to create runes (symbols possessing magical effects capable of being used multiple times).
+"X. MAGICAL ARTS, the",Sage ,a wise and experienced magic-user.
+"X. MAGICAL ARTS, the",Seer/Oracle ,able to see what the future holds through supernatural insight.
+"X. MAGICAL ARTS, the",Shaman ,accesses and influences the world of good and evil spirits.
+"X. MAGICAL ARTS, the",Shapeshifter ,a person with the ability to change their physical form.
+"X. MAGICAL ARTS, the",Sorcerer/Sorceress ,derives their magical abilities innately rather than through study.
+"X. MAGICAL ARTS, the",Summoner ,"a mage able to summon forth magical beasts, creatures, and monsters."
+"X. MAGICAL ARTS, the",Transmuter ,"alters matter in form, appearance, or nature."
+"X. MAGICAL ARTS, the",Warlock ,a mage who has gained their abilities by forming a pact with an otherworldly being.
+"X. MAGICAL ARTS, the",Witchdoctor ,"a tribal mage with powers of healing, divination, and protection against the magic of others."
+"X. MAGICAL ARTS, the",Witch ,"a woman who has supernatural powers and practices sorcery, typically in solitude."
+"X. MAGICAL ARTS, the",Wizard ,derives their magical abilities through study.
+"X. MAGICAL ARTS, the",Wordsmith ,draws their power from language and casts by dictation.
+XI. MILITARY & SECURITY,Admiral ,commands a fleet or naval squadron.
+XI. MILITARY & SECURITY,Bailiff ,looks after prisoners.
+XI. MILITARY & SECURITY,Bodyguard ,"escorts and protects another person, especially a dignitary."
+XI. MILITARY & SECURITY,Bouncer ,prevents troublemakers from entering or to eject them from the premises of an establishment.
+XI. MILITARY & SECURITY,Captain ,an army officer of high rank in charge of commanding squadrons of soldiers.
+XI. MILITARY & SECURITY,Castellan ,the governor of a castle.
+XI. MILITARY & SECURITY,Cavalryman/Cavalier ,a skilled horseback rider.
+XI. MILITARY & SECURITY,City Watch ,an officer of law enforcement who resides in larger towns or cities.
+XI. MILITARY & SECURITY,Commissar ,teaches principles and policies to military units.
+XI. MILITARY & SECURITY,Constable ,"an officer with limited policing authority, typically in a small town."
+XI. MILITARY & SECURITY,Detective/Investigator ,investigates and solves crimes.
+XI. MILITARY & SECURITY,Drummer/Fifer ,a non-combatant foot soldier who sounds signals for changes in formation in combat.
+XI. MILITARY & SECURITY,Duelist ,skilled in one-on-one combat.
+XI. MILITARY & SECURITY,Executioner ,carries out a sentence of death on a legally condemned person.
+XI. MILITARY & SECURITY,Firefighter ,extinguishes fires.
+XI. MILITARY & SECURITY,Guard/Sentinel ,"a person who keeps watch, especially a soldier or other person formally assigned to protect a person or to control access to a place."
+XI. MILITARY & SECURITY,General ,the chief commander of an army.
+XI. MILITARY & SECURITY,Inspection Officer ,responsible for the inspection of military units to ensure they meet appropriate standards of training and efficiency.
+XI. MILITARY & SECURITY,Intelligence Officer ,"collects, compiles and organizes information about the enemy."
+XI. MILITARY & SECURITY,Jailer ,supervises a jail and the prisoners in it.
+XI. MILITARY & SECURITY,Lieutenant ,an officer of middle rank in the armed forces.
+XI. MILITARY & SECURITY,Marksman/Archer ,"in long-range weapons, such as the bow, crossbow, sling, etc. to inflict damage from afar."
+XI. MILITARY & SECURITY,Marshall ,has the charge of the cavalry in the household of a monarch.
+XI. MILITARY & SECURITY,Medic ,a medical practitioner equipped for the battlefield.
+XI. MILITARY & SECURITY,Mercenary ,"a soldier without allegiance who works for money, typically a member of a company or guild."
+XI. MILITARY & SECURITY,Privateer ,engages in maritime warfare under a commission of war.
+XI. MILITARY & SECURITY,Quartermaster ,"responsible for providing quarters, rations, clothing, and other supplies."
+XI. MILITARY & SECURITY,Royal Guard ,responsible for the protection of a royal person.
+XI. MILITARY & SECURITY,Runner ,carries information between lines in wartime.
+XI. MILITARY & SECURITY,Sapper ,"a soldier responsible for tasks such as building and repairing roads and bridges, laying and clearing mines, etc."
+XI. MILITARY & SECURITY,Sergeant ,"an officer instructed with a protective duty, typically worth “half a knight” in regard."
+XI. MILITARY & SECURITY,Sergeant-at-Arms ,"charged with keeping order during meetings and, if necessary, participates in battle."
+XI. MILITARY & SECURITY,Scout ,"sent ahead of a main force so as to gather information about the enemy’s position, strength, or movements."
+XI. MILITARY & SECURITY,Siege Artillerist ,works the artillery machines of an army.
+XI. MILITARY & SECURITY,Slave Driver ,oversees and urges on slaves at work.
+XI. MILITARY & SECURITY,Soldier/Man-at-Arms ,serves in an army.
+XI. MILITARY & SECURITY,Special Force Soldier ,carries out special operations.
+XI. MILITARY & SECURITY,Spy ,"secretly collects and reports information on the activities, movements, and plans of an enemy or competitor."
+XI. MILITARY & SECURITY,Tactician ,uses a carefully planned military strategy to achieve a specific end.
+XI. MILITARY & SECURITY,Tollkeeper ,"collects tolls at a bridge, road etc. where a charge is made."
+XI. MILITARY & SECURITY,Torturer ,inflicts severe pain on someone as a punishment or in order to force them to do or say something.
+XI. MILITARY & SECURITY,Warden ,responsible for the supervision of a particular place or thing or for ensuring that regulations associated with it are obeyed.
+XI. MILITARY & SECURITY,Warmage ,a soldier skilled in destructive battle magic.
+XII. RELIGION,Abbot/Abbess ,the head of an abbey of monks.
+XII. RELIGION,Acolyte ,assists the celebrant in a religious service or procession.
+XII. RELIGION,Almoner ,distributes money and food to poor people.
+XII. RELIGION,Archbishop ,"responsible for an archdiocese, their surrounding district."
+XII. RELIGION,Bishop ,"a senior member of the clergy, usually in charge of a diocese and empowered to confer holy orders."
+XII. RELIGION,Cantor ,sings liturgical music and leads prayer in a synagogue.
+XII. RELIGION,Cardinal ,"a leading dignitary of a church, nominated by the highest official."
+XII. RELIGION,Chaplain ,"a member of the clergy attached to a private chapel, institution, ship, branch of the armed forces, etc."
+XII. RELIGION,Cleric ,"has devoted their entire being to the will of their god, thus gaining magical powers."
+XII. RELIGION,Confessor ,hears confessions and gives absolution and spiritual counsel.
+XII. RELIGION,Cultist ,a member of a cult who generally lives outside of conventional society and worships an unorthodox patron.
+XII. RELIGION,Cult Leader ,the organizational leader of a cult who is occasionally also the founder.
+XII. RELIGION,Deacon ,an ordained minister of an order ranking below that of priest.
+XII. RELIGION,Diviner ,seeks ultimate divination in order to further understand or meet godly substance.
+XII. RELIGION,Exorcist ,expels or attempts to expel evil spirits from a person or place.
+XII. RELIGION,High Priest/Pope ,the chief priest of a religion.
+XII. RELIGION,Inquisitor ,seeks to eliminate heresy and other things contrary to the doctrine or teachings of their faith.
+XII. RELIGION,Missionary ,goes on a religious mission to promote their faith in a foreign place.
+XII. RELIGION,Monk ,"able to manifest their spirituality through a calm, centered being and thus gain abilities which function similarly to magic."
+XII. RELIGION,Nun ,"a member of a religious community of women, especially a cloistered one, living under vows of poverty, chastity, and obedience."
+XII. RELIGION,Paladin ,a holy knight and divine spellcaster crusading in the name of good and order.
+XII. RELIGION,Pardoner ,raises money for religious works by soliciting offerings and granting indulgences.
+XII. RELIGION,Priest ,has the authority to perform certain rites and administer certain sacraments.
+XII. RELIGION,Prophet ,regarded as an inspired teacher or proclaimer of the will of God.
+XII. RELIGION,Sexton ,"looks after a church and churchyard, sometimes acting as bell-ringer and formerly as a gravedigger."
+XII. RELIGION,Templar ,fights in a religious military order.
+"XIII. SCIENCE, MATH, & EDUCATION",Abecedarian ,teaches the illiterate.
+"XIII. SCIENCE, MATH, & EDUCATION",Accoucheur/Obstetrician/Midwife ,assists in childbirth and the care of women giving birth.
+"XIII. SCIENCE, MATH, & EDUCATION",Anthropologist ,"studies the customs, beliefs, and relationships of humanoids and intellectually and culturally advanced creatures."
+"XIII. SCIENCE, MATH, & EDUCATION",Apothecary ,"prepares and sells medicines, drugs, and potions."
+"XIII. SCIENCE, MATH, & EDUCATION",Apprentice ,studies a trade under a skilled employer.
+"XIII. SCIENCE, MATH, & EDUCATION",Archaeologist ,studies humanoid history and prehistory through the excavation of sites and the analysis of artifacts and other physical remains.
+"XIII. SCIENCE, MATH, & EDUCATION",Archivist ,maintains and is in charge of archives.
+"XIII. SCIENCE, MATH, & EDUCATION",Assayer ,"determiner of the proportions of metal in ore and the amount of copper, silver, gold, or platinum in coins."
+"XIII. SCIENCE, MATH, & EDUCATION",Astrologer ,uses astrology to tell others about their character or to predict their future.
+"XIII. SCIENCE, MATH, & EDUCATION",Astronomer ,makes observations of celestial and scientific phenomena within the material plane.
+"XIII. SCIENCE, MATH, & EDUCATION",Bloodletter ,surgically removes some of a patient’s blood for therapeutic purposes.
+"XIII. SCIENCE, MATH, & EDUCATION",Botanist ,an expert in or student of the scientific study of plants.
+"XIII. SCIENCE, MATH, & EDUCATION",Cartographer ,a scholar and illustrator of maps.
+"XIII. SCIENCE, MATH, & EDUCATION",Chemist ,engaged in chemical research or experiments.
+"XIII. SCIENCE, MATH, & EDUCATION",Dean ,the head of a college or university.
+"XIII. SCIENCE, MATH, & EDUCATION",Doctor/Physician ,a qualified practitioner of medicine.
+"XIII. SCIENCE, MATH, & EDUCATION",Drakologist ,studies or is an expert in the branch of zoology concerned with dragons.
+"XIII. SCIENCE, MATH, & EDUCATION",Engineer ,designer of a machine or structure.
+"XIII. SCIENCE, MATH, & EDUCATION",Entomologist ,studies or is an expert in the branch of zoology concerned with insects.
+"XIII. SCIENCE, MATH, & EDUCATION",Herbalist ,practices healing by the use of herbs.
+"XIII. SCIENCE, MATH, & EDUCATION",Historian ,"an expert in or student of history, especially that of a particular period, geographical region, or social phenomenon."
+"XIII. SCIENCE, MATH, & EDUCATION",Horologist ,a scholar of time and entropy.
+"XIII. SCIENCE, MATH, & EDUCATION",Librarian ,administers or assists in a library.
+"XIII. SCIENCE, MATH, & EDUCATION",Mathematician ,"a scholar of the abstract science of number, quantity, and space."
+"XIII. SCIENCE, MATH, & EDUCATION",Mortician ,prepares dead bodies for burial or cremation and makes arrangements for funerals.
+"XIII. SCIENCE, MATH, & EDUCATION",Nurse ,"cares for the sick or infirm, especially in a hospital."
+"XIII. SCIENCE, MATH, & EDUCATION",Optometrist ,examines the eyes for visual defects and prescribes eyeglasses.
+"XIII. SCIENCE, MATH, & EDUCATION",Philosopher ,"a scholar of the fundamental nature of knowledge, reality, and existence."
+"XIII. SCIENCE, MATH, & EDUCATION",Professor ,a teacher of the highest rank in a college or university.
+"XIII. SCIENCE, MATH, & EDUCATION",Scholar/Researcher ,a specialist in a particular branch of study who pursues the acquisition of knowledge.
+"XIII. SCIENCE, MATH, & EDUCATION",Scribe ,copies out manuscripts.
+"XIII. SCIENCE, MATH, & EDUCATION",Student ,attends school or learns under other to enter and pursue a particular subject.
+"XIII. SCIENCE, MATH, & EDUCATION",Surgeon/Chirurgeon ,practices surgery.
+"XIII. SCIENCE, MATH, & EDUCATION",Taxonomist ,groups organisms into categories.
+"XIII. SCIENCE, MATH, & EDUCATION",Teacher ,instructs on a particular skill or subject.
+"XIII. SCIENCE, MATH, & EDUCATION",Theologian ,engages in the study of the nature of God and religious belief.
+"XIII. SCIENCE, MATH, & EDUCATION",Tutor ,charged with the instruction and guidance of another.
+"XIII. SCIENCE, MATH, & EDUCATION",Veterinarian ,treats diseased or injured animals.
+"XIII. SCIENCE, MATH, & EDUCATION",Zoologist ,"an expert in or a student of the behavior, physiology, classification, and distribution of animals."
+XIV. TRANSPORTATION,Boatman ,mans a small seacraft.
+XIV. TRANSPORTATION,Bosun ,in charge of organizing the equipment and crew of a ship.
+XIV. TRANSPORTATION,Cabbie/Wagoner ,drives a horse-drawn wagon.
+XIV. TRANSPORTATION,Cabin Boy/Cabin Girl ,waits on the orders of a ship’s officers and passengers.
+XIV. TRANSPORTATION,Caravaneer ,travels or lives in a caravan.
+XIV. TRANSPORTATION,Charioteer ,drives a chariot.
+XIV. TRANSPORTATION,Carter ,transports goods by cart.
+XIV. TRANSPORTATION,Ferryman ,operates a ferry.
+XIV. TRANSPORTATION,First Mate ,the deck officer second in command to the master of a ship.
+XIV. TRANSPORTATION,Helmsman ,steers a ship or boat.
+XIV. TRANSPORTATION,Navigator ,"directs the route or course of a ship or other form of transportation, especially by using instruments and maps."
+XIV. TRANSPORTATION,Purser ,"keeps the accounts of a ship, especially as the head steward on a passenger vessel."
+XIV. TRANSPORTATION,Sailor ,works as a member of the crew of a commercial or naval ship or boat.
+XIV. TRANSPORTATION,Sea Captain ,commands a ship.
+XIV. TRANSPORTATION,Shipwright ,a carpenter skilled in ship construction and repair.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Adventurer ,"wanders the world in search of knowledge, treasure, fame, glory or a multitude of additional wants and desires."
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Beggar/Pauper ,lives by asking for money or food.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Blood Hunter/Monster Hunter ,takes on jobs to hunt down and kill or capture dangerous creatures.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Bounty Hunter ,pursues a criminal or fugitive for whom a reward is offered.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Crossing Sweeper ,sweeps a path ahead of people crossing dirty urban streets in exchange for a gratuity.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Deserter ,a member of the armed forces who has deserted.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Disgraced Noble ,"a person of high birth who has since loss their respect, honor, or esteem in some or all noble circles."
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Drunkard ,a person who is habitually drunk and considers themselves a professional in the task.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Dungeon Delver ,navigates underground labyrinths in search of any treasure they may find.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Elder ,"a person of a greater age, especially one with a respected position in society."
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Exile ,"lives away from their native country, either from choice or compulsion."
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Explorer ,explores unfamiliar areas in search of geographical or scientific information.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Ex-Criminal ,"a person who has been convicted of a crime and has since served their sentence, or who has preemptively given up their life of crime."
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Folk Hero ,a celebrity who is greatly admired by many people of a particular kind or in a particular place.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Gambler ,"bets money on sports, card games, or games of chance in the hope of a profit."
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Grave Robber/Tomb Raider ,steals valuables from graves and tombs.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Heretic ,differs in opinion from established religious dogma.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Hermit ,"lives in solitude, typically as a religious or spiritual discipline."
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Housewife/Househusband ,cares for his or her family by managing household affairs and completing housework.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Pilgrim ,"journeys to some sacred place as an act of religious devotion, occasionally to settle there."
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Prisoner ,held in confinement as a punishment for crimes they have been convicted of.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Rag-and-Bone Man ,collects unwanted household items and sells them to merchants.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Rebel/Political Dissident ,rises in opposition or armed resistance against an established government or ruler.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Refugee ,"leaves their home in order to escape war, persecution, or natural disaster."
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Runaway Slave ,a slave who has left their master and traveled without authorization.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Scavenger/Mudlark/Tosher ,searches for and collects discarded items.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Slave ,a person who is the legal property of another and forced to obey them.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Squatter ,unlawfully occupies an uninhabited building or unused land.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Traveler/Wanderer/Vagabond ,wanders from place to place without a permanent home or job.
+"XV. UNEMPLOYED, SELF-EMPLOYED, & OUTCAST",Urchin ,"a child who lives or spends most of their time in the streets, occasionally working as a thief or pickpocket."

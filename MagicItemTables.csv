@@ -1,0 +1,308 @@
+,d100,Magic Item,TableName
+0,01–05,Defender,Magic Item Table I
+1,06–10,Hammer of thunderbolts,Magic Item Table I
+2,11–15,Luck Blade,Magic Item Table I
+3,16–20,Sword of answering,Magic Item Table I
+4,21–23,Holy avenger,Magic Item Table I
+5,24–26,Ring of djinni summoning,Magic Item Table I
+6,27–29,Ring of invisibility,Magic Item Table I
+7,30–32,Ring of spell turning,Magic Item Table I
+8,36–38,Rod of lordly might,Magic Item Table I
+9,42–43,Belt of cloud giant strength,Magic Item Table I
+10,44–45,"Armor, +2 breastplate",Magic Item Table I
+11,46–47,"Armor, +3 chain mail",Magic Item Table I
+12,48–49,"Armor, +3 chain shirt",Magic Item Table I
+13,50–51,Cloak of invisibility,Magic Item Table I
+14,54-55,"Armor, + 1 half plate",Magic Item Table I
+15,56-57,Iron flask,Magic Item Table I
+16,58-59,"Armor, +3 leather",Magic Item Table I
+17,60-61,"Armor, +1 plate",Magic Item Table I
+18,62-63,Robe of the archmagi,Magic Item Table I
+19,66-67,"Armor, +1 scale mail",Magic Item Table I
+20,68-69,Scarab of protection,Magic Item Table I
+21,70-71,"Armor, +2 splint",Magic Item Table I
+22,72-73,"Armor, +2 studded leather",Magic Item Table I
+23,74-75,Well of many worlds,Magic Item Table I
+24,-,"3-4: Armor, +2 plate",Magic Item Table I
+25,-,"7-8: Armor, +3 breastplate",Magic Item Table I
+26,-,"9-10: Armor, +3 splint",Magic Item Table I
+27,-,"11: Armor, +3 half plate",Magic Item Table I
+28,-,"12: Armor, +3 plate",Magic Item Table I
+29,77,Apparatus of Kwalish,Magic Item Table I
+30,81,Deck of many things,Magic Item Table I
+31,82,Efreeti chain,Magic Item Table I
+32,83,Armor of resistance (half plate),Magic Item Table I
+33,84,Horn ofValhalla (iron),Magic Item Table I
+34,85,Instrument of the bards (OIIamh harp),Magic Item Table I
+35,87,loun stone (mastery),Magic Item Table I
+36,88,loun stone (regeneration),Magic Item Table I
+37,89,Plate armor of etherealness,Magic Item Table I
+38,90,Plate armor of resistance,Magic Item Table I
+39,91,Ring of air elemental command,Magic Item Table I
+40,93,Ring of fire elemental command,Magic Item Table I
+41,94,Ring of three wishes,Magic Item Table I
+42,97,Talisman of pure good,Magic Item Table I
+43,98,Talisman of the sphere,Magic Item Table I
+44,99,Talisman of ultimate evil,Magic Item Table I
+45,100,Tome of the stilled tongue,Magic Item Table I
+46,01–10,"Weapon, +3",Magic Item Table H
+47,11–12,Amulet of the planes,Magic Item Table H
+48,13–14,Carpet of flying,Magic Item Table H
+49,15–16,Crystal ball (very rare version),Magic Item Table H
+50,17–18,Ring of regeneration,Magic Item Table H
+51,19–20,Ring of shooting stars,Magic Item Table H
+52,21–22,Ring of telekinesis,Magic Item Table H
+53,23–24,Robe of scintillating colors,Magic Item Table H
+54,25–26,Robe of stars,Magic Item Table H
+55,27–28,Rod of absorption,Magic Item Table H
+56,29–30,Rod of alertness,Magic Item Table H
+57,31–32,Rod of security,Magic Item Table H
+58,33–34,"Rod of the pact keeper, +3",Magic Item Table H
+59,35–36,Scimitar of speed,Magic Item Table H
+60,37–38,"Shield, +3",Magic Item Table H
+61,41–42,Staff of frost,Magic Item Table H
+62,43–44,Staff of power,Magic Item Table H
+63,45-46,Staff of striking,Magic Item Table H
+64,47-48,Staff of thunder and lightning,Magic Item Table H
+65,49–50,Sword of sharpnes,Magic Item Table H
+66,53–54,"Wand of the war mage, + 3",Magic Item Table H
+67,55,Adamantine armor (half plate),Magic Item Table H
+68,56,Adamantine armor (plate),Magic Item Table H
+69,57,Animated shield,Magic Item Table H
+70,58,Belt of fire giant strength,Magic Item Table H
+71,60,"Armor, + 1 breastplate",Magic Item Table H
+72,61,Armor of resistance (breastplate),Magic Item Table H
+73,62,Candle of invocation,Magic Item Table H
+74,63,"Armor, +2 chain mail",Magic Item Table H
+75,64,"Armor, +2 chain shirt",Magic Item Table H
+76,67,Demon armor,Magic Item Table H
+77,69,Dwarven plate,Magic Item Table H
+78,70,Dwarven thrower,Magic Item Table H
+79,71,Efreeti bottle,Magic Item Table H
+80,72,Figurine of wondrous power (obsidian steed),Magic Item Table H
+81,73,Frost brand,Magic Item Table H
+82,77,loun stone (absorption),Magic Item Table H
+83,78,loun stone (agility),Magic Item Table H
+84,79,loun stone (fortitude),Magic Item Table H
+85,80,loun stone (insight),Magic Item Table H
+86,81,loun stone (intellect),Magic Item Table H
+87,83,loun stone (strength),Magic Item Table H
+88,84,"Armor, +2 leather",Magic Item Table H
+89,85,Manual of bodily health,Magic Item Table H
+90,86,Manual of gainful exercise,Magic Item Table H
+91,87,Manual of golems,Magic Item Table H
+92,89,Mirror of life trapping,Magic Item Table H
+93,90,Nine lives stealer,Magic Item Table H
+94,92,"Armor, +2 scale mail",Magic Item Table H
+95,93,Spellguard shield,Magic Item Table H
+96,94,"Armor, + 1 splint",Magic Item Table H
+97,96,"Armor, + 1 studded leather",Magic Item Table H
+98,97,Armor of resistance (studded leather),Magic Item Table H
+99,99,Tome of leadership and influence,Magic Item Table H
+100,01–11,"Weapon, +2",Magic Item Table G
+101,12–14,Figurine of wondrous power (roll d8),Magic Item Table G
+102,-,1: Bronze griffon,Magic Item Table G
+103,-,2: Ebony fly,Magic Item Table G
+104,-,3: Golden lions,Magic Item Table G
+105,-,4: Ivory goats,Magic Item Table G
+106,-,5: Marble elephant,Magic Item Table G
+107,-,6-7: Onyx dog,Magic Item Table G
+108,-,8: Serpentine owl,Magic Item Table G
+109,15,Adamantine armor (breastplate),Magic Item Table G
+110,16,Adamantine armor (splint),Magic Item Table G
+111,17,Amulet of health,Magic Item Table G
+112,18,Armor of vulnerability,Magic Item Table G
+113,19,Arrow-catching shield,Magic Item Table G
+114,20,Belt of dwarvenkind,Magic Item Table G
+115,22,Berserker axe,Magic Item Table G
+116,23,Boots of levitation,Magic Item Table G
+117,24,Boots of speed,Magic Item Table G
+118,25,Bowl of commanding water elementals,Magic Item Table G
+119,26,Bracers of defense,Magic Item Table G
+120,28,Cape of the mountebank,Magic Item Table G
+121,29,Censer of controlling air elementals,Magic Item Table G
+122,30,"Armor, +1 chain mail",Magic Item Table G
+123,31,Armor of resistance (chain mail),Magic Item Table G
+124,32,Armor of resistance (chain shirt),Magic Item Table G
+125,34,Cloak of displacement,Magic Item Table G
+126,35,Cloak of the bat,Magic Item Table G
+127,36,Cube of force,Magic Item Table G
+128,37,Daern's instant fortress,Magic Item Table G
+129,38,Dagger of venom,Magic Item Table G
+130,41,Elven chain,Magic Item Table G
+131,43,Gem of seeing,Magic Item Table G
+132,44,Giant slayer,Magic Item Table G
+133,45,Clamoured studded leather,Magic Item Table G
+134,46,Helm of teleportation,Magic Item Table G
+135,47,Horn of blasting,Magic Item Table G
+136,51,loun stone (awareness),Magic Item Table G
+137,52,loun stone (protection),Magic Item Table G
+138,53,loun stone (reserve),Magic Item Table G
+139,54,loun stone (sustenance),Magic Item Table G
+140,55,Iron bands of Bilarro,Magic Item Table G
+141,57,Armor of resistance (leather),Magic Item Table G
+142,58,Mace of disruption,Magic Item Table G
+143,59,Mace of smiting,Magic Item Table G
+144,60,Mace of terror,Magic Item Table G
+145,61,Mantle of spell resistance,Magic Item Table G
+146,63,Periapt of proof against poison,Magic Item Table G
+147,64,Ring of animal influence,Magic Item Table G
+148,67,Ring of free action,Magic Item Table G
+149,68,Ring of protection,Magic Item Table G
+150,69,Ring of resistance,Magic Item Table G
+151,70,Ring of spell storing,Magic Item Table G
+152,72,Ring of X-ray vision,Magic Item Table G
+153,73,Robe of eyes,Magic Item Table G
+154,75,"Rod of the pact keeper, +2",Magic Item Table G
+155,76,Rope of entanglement,Magic Item Table G
+156,77,"Armor, +1 scale mail",Magic Item Table G
+157,78,Armor of resistance (scale mail),Magic Item Table G
+158,80,Shield of missile attraction,Magic Item Table G
+159,81,Staff of charming,Magic Item Table G
+160,83,Staff of swarming insects,Magic Item Table G
+161,84,Staff of the woodlands,Magic Item Table G
+162,85,Staff of withering,Magic Item Table G
+163,86,Stone of controlling earthelementals,Magic Item Table G
+164,88,Sword of life stealing,Magic Item Table G
+165,89,Sword of wounding,Magic Item Table G
+166,91,Vicious weapon,Magic Item Table G
+167,92,Wand of binding,Magic Item Table G
+168,93,Wand of enemy detection,Magic Item Table G
+169,95,Wand of fireballs,Magic Item Table G
+170,96,Wand of lightning bolts,Magic Item Table G
+171,98,"Wand of the war mage, +2",Magic Item Table G
+172,99,Wand of wonder,Magic Item Table G
+173,01–15,"Weapon, +1",Magic Item Table F
+174,16–18,"Shield,+ 1",Magic Item Table F
+175,19–21,Sentinel shield,Magic Item Table F
+176,22–23,Amulet of proof against detection and location,Magic Item Table F
+177,24–25,Boots of elvenkind,Magic Item Table F
+178,26–27,Boots of striding and springing,Magic Item Table F
+179,27–29,Bracers of archery,Magic Item Table F
+180,30–31,Brooch of shielding,Magic Item Table F
+181,32–33,Broom of flying,Magic Item Table F
+182,34–35,Cloak of elvenkind,Magic Item Table F
+183,36–37,Cloak of protection,Magic Item Table F
+184,38–39,Gauntlets of ogre power,Magic Item Table F
+185,40–41,Hat of disguise,Magic Item Table F
+186,42–43,Javelin of lightning,Magic Item Table F
+187,44–45,Pearl of power,Magic Item Table F
+188,48–49,Slippers of spider climbing,Magic Item Table F
+189,50–51,Staff of the adder,Magic Item Table F
+190,52-53,Staff of the python,Magic Item Table F
+191,54-55,Sword of vengeance,Magic Item Table F
+192,56–57,Trident of fish command,Magic Item Table F
+193,60–61,"Wand of the war mage, + 1",Magic Item Table F
+194,62–63,Wand of web,Magic Item Table F
+195,64-65,Weapon of warning,Magic Item Table F
+196,66,Adamantine armor (chain mail),Magic Item Table F
+197,67,Adamantine armor (chain shirt),Magic Item Table F
+198,69,Bag of tricks (gray),Magic Item Table F
+199,70,Bag of tricks (rust),Magic Item Table F
+200,71,Bag of tricks (tan),Magic Item Table F
+201,72,Boots of the winterlands,Magic Item Table F
+202,73,Circlet of blasting,Magic Item Table F
+203,76,Eyes of charming,Magic Item Table F
+204,78,Figurine of wondrous power (silver raven),Magic Item Table F
+205,79,Gem of brightness,Magic Item Table F
+206,80,Gloves of missile snaring,Magic Item Table F
+207,81,Gloves of swimming and climbing,Magic Item Table F
+208,82,Gloves of thievery,Magic Item Table F
+209,86,Instrument of the bards (Fochlucan bandore),Magic Item Table F
+210,87,Instrument of the bards (Mac-Fuimidh cittern),Magic Item Table F
+211,88,Medallion of thoughts,Magic Item Table F
+212,89,Necklace of adaptation,Magic Item Table F
+213,90,Periapt of wound closure,Magic Item Table F
+214,92,Pipes of the sewers,Magic Item Table F
+215,93,Ring of jumping,Magic Item Table F
+216,94,Ring of mind shielding,Magic Item Table F
+217,95,Ring of warmth,Magic Item Table F
+218,96,Ring of water walking,Magic Item Table F
+219,98,Stone of good luck,Magic Item Table F
+220,99,Wind fan,Magic Item Table F
+221,01–30,Spell scroll (8thlevel),Magic Item Table E
+222,31–55,Potion of storm giant strength,Magic Item Table E
+223,56–70,Poti on of supreme healing,Magic Item Table E
+224,71–85,Spell scroll (9st level),Magic Item Table E
+225,86–93,Universal solvent,Magic Item Table E
+226,94–98,Arrow of slaying,Magic Item Table E
+227,99-100,Sovereign glue,Magic Item Table E
+228,01–20,Potion of supreme healing,Magic Item Table D
+229,21–30,Potion of invisibility,Magic Item Table D
+230,31–40,Potion of speed,Magic Item Table D
+231,41–50,Spell scroll (6thlevel),Magic Item Table D
+232,51–57,Spell scroll (7thlevel),Magic Item Table D
+233,58–62,"Ammunition, +3",Magic Item Table D
+234,63–67,Oil of sharpness,Magic Item Table D
+235,68–72,Potion of flying,Magic Item Table D
+236,73–77,Potion of cloud giant strength,Magic Item Table D
+237,78–82,Potion of longevity,Magic Item Table D
+238,83–87,Potion of vitality,Magic Item Table D
+239,88–92,Spell scroll (8thlevel),Magic Item Table D
+240,93–95,Horseshoes of a zephyr,Magic Item Table D
+241,96–98,Nolzur's marvelous pigments,Magic Item Table D
+242,99,Bag of devouring,Magic Item Table D
+243,01–15,Potion of superior healing,Magic Item Table C
+244,16–22,Spell scroll (4thlevel),Magic Item Table C
+245,23–27,"Ammunition, +2",Magic Item Table C
+246,28–32,Potion of clairvoyance,Magic Item Table C
+247,33–37,Potion of diminution,Magic Item Table C
+248,38–42,Potion of gaseous form,Magic Item Table C
+249,43–47,Potion of frost giant strength,Magic Item Table C
+250,48–52,Potion of stone giant strength,Magic Item Table C
+251,53–57,Potion of heroism,Magic Item Table C
+252,58–62,Potion of invulnerability,Magic Item Table C
+253,63–67,Potion of mind reading,Magic Item Table C
+254,68–72,Spell scroll (5thlevel),Magic Item Table C
+255,73–75,Elixir of health,Magic Item Table C
+256,76–78,Oil of etherealness,Magic Item Table C
+257,79–81,Potion of fire giant strength,Magic Item Table C
+258,85–87,Scroll of protection,Magic Item Table C
+259,88–89,Bag of beans,Magic Item Table C
+260,90-91,Bead of force,Magic Item Table C
+261,92,Chime of opening,Magic Item Table C
+262,93,Decanter of endless water,Magic Item Table C
+263,95,Folding boat,Magic Item Table C
+264,96,Heward's handy haversack,Magic Item Table C
+265,97,Horseshoes of speed,Magic Item Table C
+266,98,Necklace of fireballs,Magic Item Table C
+267,99,Periapt of health,Magic Item Table C
+268,01–15,Potion of greater healing,Magic Item Table B
+269,16–22,Potion of fire breath,Magic Item Table B
+270,23–29,Potion of resistance,Magic Item Table B
+271,30–34,"Ammunition, +1",Magic Item Table B
+272,35–39,Potion of animal friendship,Magic Item Table B
+273,40–44,Potion of hill giant strength,Magic Item Table B
+274,45–49,Potion of growth,Magic Item Table B
+275,50–54,Potion of water breathing,Magic Item Table B
+276,55–59,Spell scroll (2nd level),Magic Item Table B
+277,60–64,Spell scroll (3rd level),Magic Item Table B
+278,65–67,Bag of holding,Magic Item Table B
+279,68–70,Keoghtom's ointment,Magic Item Table B
+280,71–73,Oil of slipperiness,Magic Item Table B
+281,74–75,Dust of disappearance,Magic Item Table B
+282,76–77,Dust of dryness,Magic Item Table B
+283,80–81,Elemental gem,Magic Item Table B
+284,82–83,Philter of love,Magic Item Table B
+285,84,Alchemy jug,Magic Item Table B
+286,85,Cap of water breathing,Magic Item Table B
+287,86,Cloak of the manta ray,Magic Item Table B
+288,88,Goggles of night,Magic Item Table B
+289,89,Helm of comprehending languages,Magic Item Table B
+290,90,Immovable rod,Magic Item Table B
+291,91,Lantern of revealing,Magic Item Table B
+292,92,Mariner's armor,Magic Item Table B
+293,94,Potion of poison,Magic Item Table B
+294,95,Ring of swimming,Magic Item Table B
+295,96,Robe of useful items,Magic Item Table B
+296,97,Rope of climbing,Magic Item Table B
+297,99,Wand of magic detection,Magic Item Table B
+298,100,Wand of secrets,Magic Item Table B
+299,01–50,Potion of healing,Magic Item Table A
+300,51–60,Spell scroll (cantrip),Magic Item Table A
+301,61–70,Potion of climbing,Magic Item Table A
+302,71–90,Spell scroll (1st level),Magic Item Table A
+303,91–94,Spell scroll (2nd level),Magic Item Table A
+304,95–98,Potion of greater healing,Magic Item Table A
+305,99,Bag of holding,Magic Item Table A
+306,00,Driftglobe,Magic Item Table A

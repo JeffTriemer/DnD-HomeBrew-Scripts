@@ -1,0 +1,18 @@
+d100,CP,SP,EP,GP,PP,TableName
+01–15,–,–,2d6 x 1000 (7000),8d6 x 100 (2800),–,Individual Treasure: Challenge 17+
+16–55,–,–,–,1d6 x 1000 (3500),1d6 x 100 (350),Individual Treasure: Challenge 17+
+56–00,–,–,–,1d6 x 1000 (3500),2d6 x 100 (700),Individual Treasure: Challenge 17+
+01–20,–,"4d6 x 100 (1,400)",–,1d6 x 100 (35),–,Individual Treasure: Challenge 11-16
+21–35,–,–,1d6 x 100 (350),1d6 x 100 (350),–,Individual Treasure: Challenge 11-16
+36–75,–,–,–,2d6 x 100 (700),1d6 x 10 (35),Individual Treasure: Challenge 11-16
+76–100,–,–,–,2d6 x 100 (700),2d6 x 10 (70),Individual Treasure: Challenge 11-16
+01–30,"4d6 x 100 (1,400)",–,1d6 x 10 (35),–,–,Individual Treasure: Challenge 5-10
+31–60,–,6d6 x 10 (210),–,2d6 x 10 (70),–,Individual Treasure: Challenge 5-10
+61–70,–,–,1d6 x 100 (350),2d6 x 10 (70),–,Individual Treasure: Challenge 5-10
+71–95,–,–,–,4d6 x 10 (140),–,Individual Treasure: Challenge 5-10
+96–100,–,–,–,2d6 x 10 (70),3d6 (10),Individual Treasure: Challenge 5-10
+01–30,5d6 (17),–,–,–,–,Individual Treasure: Challenge 0-4
+31–60,–,4d6 (14),–,–,–,Individual Treasure: Challenge 0-4
+61–70,–,–,3d6 (10),–,–,Individual Treasure: Challenge 0-4
+71–95,–,–,–,3d6 (10),–,Individual Treasure: Challenge 0-4
+96–100,–,–,–,–,1d6 (3),Individual Treasure: Challenge 0-4
